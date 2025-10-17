@@ -1,0 +1,10 @@
+
+# Requerimientos mínimos para la ejecución del proyecto
+# Versiones aproximadas compatibles con tu proyecto:
+torch==2.0.1
+torchvision==0.15.2
+numpy
+matplotlib
+tqdm
+Pillow
+streamlit==1.25.0
